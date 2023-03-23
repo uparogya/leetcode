@@ -36,7 +36,6 @@ class Solution:
 
         return total
 
-# PRE CONVERSION
 roman = input("Enter roman number: ")
 integer = Solution().romanToInt(roman)
 print(integer)
